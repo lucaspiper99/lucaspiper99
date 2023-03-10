@@ -2,8 +2,8 @@
 
 - 🎓 MSc student in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/)
   - Specialization in Interaction & Visualization and Artificial Inteligence
-- 📫 [E-mail](lucaspiper99@gmail.com)
-- 👥 [LinkedIn](https://www.linkedin.com/in/lucas-piper/)
+- 📫 [lucaspiper99@gmail.com](mailto:lucaspiper99@gmail.com)
+- 👥 [linkedin.com/in/lucas-piper/](https://www.linkedin.com/in/lucas-piper/)
 
 ### Languages
 
