@@ -2,12 +2,13 @@
 <h3 align="center">👨‍💻 Computer Science Student</h3>
 <br>
 
-- 📍 Lisbon, Portugal
-- 📫 [lucaspiper99@gmail.com](mailto:lucaspiper99@gmail.com)
-- 👥 [linkedin.com/in/lucas-piper/](https://www.linkedin.com/in/lucas-piper/)
+- 📍 Almada, Portugal
+- 💼 Programming Tutor
 - 🎓 MSc in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/)
   - Specialization in Interaction & Visualization and Artificial Inteligence
-- 🎓 BSc in Mechanical Engineering
+- 📫 [lucaspiper99@gmail.com](mailto:lucaspiper99@gmail.com)
+- 👥 [in/lucas-piper](https://www.linkedin.com/in/lucas-piper/)
+
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=lucaspiper99&theme=gruvbox-duo&hide_border=true&border_radius=0"/></p>
 <br>
