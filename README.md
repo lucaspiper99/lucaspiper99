@@ -1,11 +1,10 @@
 <h1 align="center">Hey, I'm Lucas!</h1>
-<h3 align="center">👨‍💻 Computer Science Student</h3>
+<h3 align="center">Computer Science Student</h3>
 <br>
 
-- 📍 Almada, Portugal
-- 🎓 MSc in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/)
+- Based in Lisbon, Portugal
+- MSc in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/)
   - Specialization in Interaction & Visualization and Artificial Inteligence
-- 💼 Programming Tutor at [SHARKCODERS](https://sharkcoders.website/?lang=en)
 - 📫 [lucaspiper99@gmail.com](mailto:lucaspiper99@gmail.com)
 - 👥 [in/lucas-piper](https://www.linkedin.com/in/lucas-piper/)
 
